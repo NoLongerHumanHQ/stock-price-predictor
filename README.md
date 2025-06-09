@@ -1,4 +1,4 @@
-# 📈 AI Stock Price Predictor
+# 📈 Stock Price Predictor
 
 An intelligent machine learning application that predicts stock prices using advanced algorithms and provides real-time market analysis.
 
