@@ -8,6 +8,10 @@ A machine learning application that predicts stock prices using advanced algorit
 - Interactive web interface
 - Future price predictions
 - Beautiful visualizations
+- 
+## 🚀 Live Demo
+
+**[Try the app live here!](https://aistockpricepredictor.streamlit.app/)**
 
 ## How to Use
 1. Visit the deployed app
