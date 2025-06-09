@@ -1,5 +1,5 @@
 """
-Stock Price Predictor - AI/ML Portfolio Project
+Stock Price Predictor - AI/ML
 A comprehensive machine learning application for predicting stock prices
 Author: Veeru Patel
 """
@@ -572,7 +572,7 @@ if __name__ == "__main__":
         print("❌ Analysis failed to complete")
 
 def create_project_summary():
-    """Generate project summary for portfolio"""
+    """Generate project summary"""
     summary = """
     🚀 STOCK PRICE PREDICTOR
     
